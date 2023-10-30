@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Calaverita_Literaria/static/css/main.bacbb619.css",
-    "main.js": "/Calaverita_Literaria/static/js/main.5fdc012f.js",
+    "main.js": "/Calaverita_Literaria/static/js/main.d9eb7086.js",
     "static/media/fondPage.jpg": "/Calaverita_Literaria/static/media/fondPage.c4cf1fc2d20d33b3429e.jpg",
     "index.html": "/Calaverita_Literaria/index.html",
     "main.bacbb619.css.map": "/Calaverita_Literaria/static/css/main.bacbb619.css.map",
-    "main.5fdc012f.js.map": "/Calaverita_Literaria/static/js/main.5fdc012f.js.map"
+    "main.d9eb7086.js.map": "/Calaverita_Literaria/static/js/main.d9eb7086.js.map"
   },
   "entrypoints": [
     "static/css/main.bacbb619.css",
-    "static/js/main.5fdc012f.js"
+    "static/js/main.d9eb7086.js"
   ]
 }
